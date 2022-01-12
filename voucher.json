@@ -1,0 +1,10 @@
+{
+  "data": {
+    "ParcsUiOptions:SiteName": "Ping Sydney",
+    "ParcsUiOptions:AllowPincode": "false",
+    "ParcsUiOptions:AllowQRCode": "false",
+    "ParcsUiOptions:AllowVoucher": "true",
+    "ParcsUiOptions:AllowCreditCard": "false",
+    "ParcsUiOptions:IsNest": "false"
+  }
+}
