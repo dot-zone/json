@@ -1,6 +1,7 @@
 {
   "data": {
     "ParcsUiOptions:SiteName": "Ping Sydney",
-    "ParcsUiOptions:Type": "Nest"
+    "ParcsUiOptions:Type": "Nest",
+    "ParcsUiOptions:IsNest": "false"
   }
 }
